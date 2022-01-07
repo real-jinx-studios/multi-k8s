@@ -19,7 +19,7 @@ function App() {
           >
             why isnt the fucking db working?
           </a>
-          <h1>Andrei. u r a stupid cöw</h1>
+          <h1>Andrei. u r a stupid cöw.</h1>
           <Link to="/">Home</Link>
           <Link to="/otherpage">Other Page</Link>
         </header>
